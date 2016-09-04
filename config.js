@@ -1,6 +1,6 @@
 export default {
-  apiKey: 'YOUR_BOT_API_KEY',
+  apiKey: '246195966:AAG0MAl4Bi5pMamAW0c6vdV2ZREEMovVehw',
   pollingTimeout: 20,
-  startMessage: `Hello. I'm the TLBot. I can help you to translate some text!`,
-  masterId: 'YOUR_TELEGRAM_USER_ID (Something like 12345678)'
+  startMessage: `سلام خوش آمدید من ربات مترجم هستم برای دریافت دستورات دستور/help را بفرستید `,
+  masterId: 'YOUR_TELEGRAM_USER_ID (Something like 208094932)'
 }
