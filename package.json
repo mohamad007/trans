@@ -1,7 +1,7 @@
 {
-  "name": "TLBot",
+  "name": "Translatorrobot",
   "version": "1.0.5",
-  "description": "Telegram @TLBot",
+  "description": "Telegram @Translatorrobot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
