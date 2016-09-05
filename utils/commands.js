@@ -1,4 +1,4 @@
-const commands = [
+const لیست دستورات = [
   {
     command: 'tl',
     params: ['text'],
